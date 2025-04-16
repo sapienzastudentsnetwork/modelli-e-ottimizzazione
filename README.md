@@ -2,7 +2,7 @@
 
 ## 👋 Introduzione al forum
 
-ℹ️ Lo scopo di questo repository GitHub è lo scambio e il confronto di Soluzioni ad Esercizi di Optimization assegnati a lezione dai professori dell'insegnamento presso il Corso di Laurea Triennale in Informatica di Sapienza Università di Roma
+ℹ️ Lo scopo di questo repository GitHub è lo scambio e il confronto di Soluzioni ad Esercizi di Modelli e Ottimizzazione assegnati a lezione dai professori dell'insegnamento presso il Corso di Laurea Triennale in Informatica di Sapienza Università di Roma
 
 💬 Nel forum realizzato attraverso questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
 
@@ -20,6 +20,6 @@ Attualmente, questo forum è gestito dai seguenti colleghi:
 Grazie mille in anticipo per il tuo contributo 🙌
 
 ## 📖 Esercizi per Categoria
-- [Network Flow](https://github.com/sapienzastudentsnetwork/modelli-e-ottimizzazione/discussions?discussions_q=is%3Aopen+label%3Network Flow)
-- [Linear Programming](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore/discussions?discussions_q=is%3Aopen+label%3APthread)
-- [Integer Programming](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore/discussions?discussions_q=is%3Aopen+label%3AOpenMP)
+- [Network Flow](https://github.com/sapienzastudentsnetwork/modelli-e-ottimizzazione/discussions?discussions_q=is%3Aopen+label%3A"Network+Flow")
+- [Linear Programming](https://github.com/sapienzastudentsnetwork/modelli-e-ottimizzazione/discussions?discussions_q=is%3Aopen+label%3A"Linear+Programming")
+- [Integer Programming](https://github.com/sapienzastudentsnetwork/modelli-e-ottimizzazione/discussions?discussions_q=is%3Aopen+label%3A%22Integer+Programming%22)
